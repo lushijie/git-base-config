@@ -1,4 +1,4 @@
-# git-base-config <img src="./git.png" width="48">
+# <img src="./git.png" width="32"> git-base-config
 
 
 git 几个基本的初始化命令，进入git初始化目录执行下面的命令即可
