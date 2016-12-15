@@ -1,9 +1,8 @@
-# git-base-config
+# git-base-config <img src="./git.png" width="48">
 
 
-git 几个基本的初始化命令
+git 几个基本的初始化命令，进入git初始化目录执行下面的命令即可
 
-![快跑小白](./git.png)
 
 ### 执行
 
