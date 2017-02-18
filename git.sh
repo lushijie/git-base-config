@@ -15,7 +15,7 @@ git config color.ui true
 #禁止换行符转换当前操作系统的换行符
 git config core.autocrlf false
 
-#git config [--global] user.name wd4blue
+#git config [--global] user.name lushijie
 #git config [--global] user.email lushijie1218@126.com
 
 if [ ! -f .gitignore ]
