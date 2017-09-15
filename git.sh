@@ -21,9 +21,9 @@ git config core.ignorecase false
 #git config [--global] user.name lushijie
 #git config [--global] user.email lushijie1218@126.com
 
-if [ ! -f .gitignore ]
-then
-  touch .gitignore
-fi
+#if [ ! -f .gitignore ]
+#then
+#  touch .gitignore
+#fi
 
 echo 'Done︎, enjoy your time  ✔'
