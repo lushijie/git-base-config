@@ -13,7 +13,7 @@ git config alias.pu push
 git config color.ui true
 
 #禁止换行符转换当前操作系统的换行符
-git config --global core.autocrlf true
+git config --global core.autocrlf false
 
 # 大小写敏感
 git config core.ignorecase false  
