@@ -21,6 +21,11 @@ git config core.ignorecase false
 #git config [--global] user.name lushijie
 #git config [--global] user.email lushijie1218@126.com
 
+# 解决 sourcetree 卡顿
+git config --global core.preloadindex true
+git config --global core.fscache true
+git config --global gc.auto 256
+
 #if [ ! -f .gitignore ]
 #then
 #  touch .gitignore
